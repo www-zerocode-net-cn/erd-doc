@@ -28,8 +28,7 @@ jobs:
     
 
     - name: Install Dependencies
-      run: yarn
-    - run: ./build.sh
+      run: yarn && yarn build
     - name: copy file via ssh key
       uses: appleboy/scp-action@master
       with:
