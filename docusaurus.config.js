@@ -36,14 +36,14 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://gitee.com/www-zerocode-net-cn/erd-docs/blob/master',
+          editUrl: 'https://github.com/www-zerocode-net-cn/erd-doc/blob/main',
 
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'hhttps://gitee.com/www-zerocode-net-cn/erd-docs/blob/master',
+          editUrl: 'https://github.com/www-zerocode-net-cn/erd-doc/blob/main',
 
         },
         theme: {
