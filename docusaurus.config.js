@@ -83,7 +83,7 @@ const config = {
           position: 'right',
         },
         {
-          href: 'https://www.zerocode.net.cn',
+          href: 'https://github.com/www-zerocode-net-cn/ERD-Online/discussions',
           label: '社区',
           position: 'right',
         },
@@ -139,30 +139,20 @@ const config = {
           items: [
             {
               label: '社区论坛',
-              href: 'https://www.zerocode.net.cn',
+              href: 'https://github.com/www-zerocode-net-cn/ERD-Online/discussions',
             },
             {
               label: '文档资料',
-              href: 'https://gitee.com/www-zerocode-net-cn/erd-docs',
+              href: 'https://portal.zerocode.net.cn',
             },
           ],
         },
         {
-          title: '零代社区',
+          title: '联系我们（公众号）',
           items: [
             {
               html: `
-                    <img src="/img/wechat-qr.jpg" alt="零代社区小程序" />
-                `,
-            },
-          ],
-        },
-        {
-          title: '联系我们',
-          items: [
-            {
-              html: `
-                    <img src="/img/concat-qr.jpg" alt="微信群" />
+                    <img src="/img/mp.jpg" alt="微信公众号" />
                 `,
             },
           ],

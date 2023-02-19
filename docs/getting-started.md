@@ -70,11 +70,8 @@ ERD Online 论坛：[https://www.zerocode.net.cn](https://www.zerocode.net.cn)
 
 
 ## 联系我们
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***微信群***   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***社区小程序***
-
-&nbsp;![在这里插入图片描述](https://img-blog.csdnimg.cn/cd061ef5aabe499da197fcdbf5115902.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![在这里插入图片描述](https://img-blog.csdnimg.cn/8ffb80270f8347ce828dab4e1ef692ae.png)
-
-
+***微信公众号***   
+![微信公众号](img/mp.jpg)
 
 ## 加入我们
 #### 开发组人员配置

@@ -29,7 +29,7 @@ title: 新版源码
   - [Github](https://github.com/www-zerocode-net-cn/ERD-Online)
   - [Gitee](https://gitee.com/MARTIN-88/erd-online)
 
-![微信](img/wechat.png)
+![微信](img/mp.jpg)
 
 
 
