@@ -16,7 +16,8 @@ description: ⚡ 拓展ERD Online后端功能.
   - [Gitee](https://gitee.com/MARTIN-88/erd-online)
 - 还没点吗？这么白嫖，我有点难受咯！略略略😝😝😝😝😝😝😝😝
 
-## 点完star，找我拉你进后端服务git仓库，手把手教学
+## 关注下方公众号`零代科技`，发送暗号`952701`，即可获取`后端源码`
+![零代科技](../img/mp.jpg)
 
 :::tip
 - star到500之后，后端仓库自动转为公开;
